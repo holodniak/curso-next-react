@@ -20,6 +20,7 @@ export default function Inicio() {
         texto="Integração com API #01"
         cor="yellow"
       />
+      <Navegador destino="/estatico" texto="Conteúdo Estático" cor="yellow" />
     </div>
   );
 }
